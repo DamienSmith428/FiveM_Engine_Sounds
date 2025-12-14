@@ -1,12 +1,9 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'PrinceAlbert'
-description 'Custom Car Audio'
-
 author 'Damien428'
 description 'FiveM Engine Audio Pack'
-repository 'https://github.com/SpiritsCreations/FiveM-Engine-Sound-Pack/Audio_Pack'
+repository 'https://github.com/DamienSmith428/FiveM_Engine_Sounds/tree/main/Audio_Pack'
 
 server_scripts {
 	"versioncheck.lua"
