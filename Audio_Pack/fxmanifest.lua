@@ -34,4 +34,7 @@ data_file 'AUDIO_SYNTHDATA' 'audioconfig/chevydmaxeng_amp.dat'
 data_file 'AUDIO_GAMEDATA' 'audioconfig/chevydmaxeng_game.dat'
 data_file 'AUDIO_SOUNDDATA' 'audioconfig/chevydmaxeng_sounds.dat'
 data_file 'AUDIO_WAVEPACK' 'sfx/dlc_chevydmaxeng'
-
+--Used by [jester4c]
+data_file 'AUDIO_GAMEDATA' 'audioconfig/dinkav6_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audioconfig/dinkav6_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'sfx/dlc_dinkav6'
