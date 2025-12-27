@@ -16,6 +16,10 @@ files {
     '**/**/*.dat10.rel',
     '**/**/*.awc',
 }
+--Used by [mz_redeye]
+data_file 'AUDIO_GAMEDATA'   'audioconfig/lg81hcredeye_game.dat'
+data_file 'AUDIO_SOUNDDATA'  'audioconfig/lg81hcredeye_sounds.dat'
+data_file 'AUDIO_WAVEPACK'   'sfx/dlc_lg81hcredeye'
 --Used by [hb450s]
 data_file 'AUDIO_SYNTHDATA' 'audioconfig/hb450s_amp.dat'
 data_file 'AUDIO_GAMEDATA' 'audioconfig/hb450s_game.dat'
